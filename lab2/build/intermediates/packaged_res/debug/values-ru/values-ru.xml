@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lab2_btn_add_view">Добавить</string>
+    <string name="lab2_btn_reset">Сбросить</string>
+    <string name="lab2_title">Это %s!</string>
+</resources>

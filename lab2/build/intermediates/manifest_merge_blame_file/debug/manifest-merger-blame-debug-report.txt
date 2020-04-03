@@ -1,0 +1,20 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="ru.tpu.courses.lab2"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml
+10
+11    <application>
+11-->D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml:6:2-8:16
+12        <activity android:name="ru.tpu.courses.lab2.Lab2Activity" />
+12-->D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml:7:3-44
+12-->D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml:7:13-41
+13    </application>
+14
+15</manifest>

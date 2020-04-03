@@ -1,0 +1,43 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml:3:2-31
+		INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml
+		ADDED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml:1:1-9:12
+		INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml
+		ADDED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml:1:1-9:12
+		INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml:2:2-60
+application
+ADDED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml:6:2-8:16
+activity#ru.tpu.courses.lab2.Lab2Activity
+ADDED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml:7:3-44
+	android:name
+		ADDED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml:7:13-41
+uses-sdk
+INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml
+INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml
+INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml
+INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml
+		ADDED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml
+		ADDED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\ITprojects\Study\Android\tpu-android-courses\lab2\src\main\AndroidManifest.xml

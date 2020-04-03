@@ -1,0 +1,18 @@
+R_DEF: Internal format may change without notice
+local
+attr? lab2_minViewsCount
+id activity_main
+id btn_add_view
+id btn_reset
+id container
+id lab2_progressbar
+id lab2_titletextview
+id lab2_valuetextview
+id scrollViewMain
+layout lab2_activity
+layout lab2_view
+string lab2_btn_add_view
+string lab2_btn_reset
+string lab2_title
+style lab2_view_primary
+styleable Lab2ViewsContainer lab2_minViewsCount
